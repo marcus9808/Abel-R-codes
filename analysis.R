@@ -9,3 +9,5 @@ print(3*2)
 print(30/3)
 #addition
 print(1004+200003)
+#subtraction
+print(10000-9999)

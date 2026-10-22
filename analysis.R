@@ -11,3 +11,10 @@ print(30/3)
 print(1004+200003)
 #subtraction
 print(10000-9999)
+#store data 
+Fruits<-c("mangos","bananas","pipenable")
+Fruits
+Fruits[1]
+Fruits[1:2]
+
+Fruits[1:3]

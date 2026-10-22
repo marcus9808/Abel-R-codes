@@ -5,3 +5,5 @@ lin<-lm(y~X)
 summary(lin)
 # doing multiplication
 print(3*2)
+#doing division
+print(30/3)

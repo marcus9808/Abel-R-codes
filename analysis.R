@@ -18,3 +18,11 @@ Fruits[1]
 Fruits[1:2]
 
 Fruits[1:3]
+abel<-read.csv("./heightWeight.csv")
+head(abel)
+mean(abel$height)
+summary(abel)
+hist(abel$height)
+hist(abel$weight)
+hist(log(abel$weight))
+hist(log(abel$height))

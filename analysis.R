@@ -7,3 +7,5 @@ summary(lin)
 print(3*2)
 #doing division
 print(30/3)
+#addition
+print(1004+200003)

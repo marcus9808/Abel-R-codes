@@ -26,3 +26,12 @@ hist(abel$height)
 hist(abel$weight)
 hist(log(abel$weight))
 hist(log(abel$height))
+#performing logarithms
+log(10)
+log(100)
+log(49)
+log10(5)
+log2(10)
+log10(100)
+log10(5)
+
